@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699005290910",
+    "firebase_url": "https://tranverts-app.firebaseio.com",
+    "project_id": "tranverts-app",
+    "storage_bucket": "tranverts-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699005290910:android:5a3e8e1125b8faad",
+        "android_client_info": {
+          "package_name": "com.rad5techhub.tranvertsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699005290910-cpqu4bi5b5a3735jhchlvcq15q076nr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rad5techhub.tranvertsapp",
+            "certificate_hash": "227eef75092c8a2c9ebf93d4ab865b65d419c3d2"
+          }
+        },
+        {
+          "client_id": "699005290910-a91mpql97vb66pfbt71jtbd4a7adjvj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMx3UMVkig5N0RYydeH9zcF1V6icFNYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699005290910-a91mpql97vb66pfbt71jtbd4a7adjvj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
